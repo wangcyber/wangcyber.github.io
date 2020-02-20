@@ -34,7 +34,7 @@
 ## 返程复工指南(一)
 ### 天命还需你准备
 1. 公司复工证明
-<img src="C:\Users\81901\code\prove.ipg" />
+<img src="C:\Users\81901\code\prove.ipg"/>
 2. 返程车票信息
 
 ### 我命还需我努力
