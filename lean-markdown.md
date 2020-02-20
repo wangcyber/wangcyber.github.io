@@ -4,7 +4,7 @@
 
 ### 小标题
 
-This is **wangcyber's** __life__, Now Let's *we* go
+This is **wangcyber's** __life__, Now Let's *we* [go](more.md)
 
 ---
 
